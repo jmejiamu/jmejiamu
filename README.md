@@ -12,7 +12,7 @@ Skills: / REACT / Reat Native/ JS / HTML / CSS/ JAVA / Nose/ Express/ PostgreSQL
 
 <!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>  -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jmejiamu&show_icons=true&count_private=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jmejiamu&show_icons=true&count_private=true)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jmejiamu)  
 
