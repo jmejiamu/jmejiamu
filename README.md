@@ -6,7 +6,7 @@ I am a software engineer that loves to build scalable, well-documented, and well
 
 Skills: / REACT / Reat Native/ JS / HTML / CSS/ JAVA / NodeJS/ Express/ PostgreSQL / MySQL / NextJS
 
-Learning: TypeScript and spring boot
+Learning: TypeScript and Spring Boot
 
 
 
