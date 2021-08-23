@@ -8,6 +8,8 @@ Skills: Java/ React / Reat Native/ JS / HTML / CSS / NodeJS/ Express/ PostgreSQL
 
 Learning: TypeScript and Spring Boot
 
+Tools: VSCode, NetBeans
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jmejiamu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jose-h-mejia-munoz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/josemejia62)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jmejiamu.github.io/portafolio/)  
