@@ -16,4 +16,3 @@ Skills:  Reat Native | React | Javascript | Typescript | NodeJS |  PostgreSQL
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jmejiamu)  
 
-![Profile views](https://gpvc.arturio.dev/jmejiamu)  
