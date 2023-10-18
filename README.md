@@ -4,9 +4,7 @@
 
 I am a software engineer that loves to build scalable, well-documented, and well-structured software. I enjoy working in the front end as I do in the back end.
 
-Skills: Java/ React / Reat Native/ JS / HTML / CSS / NodeJS/ Express/ PostgreSQL / MySQL / NextJS
-
-Learning: TypeScript and Spring Boot
+Skills:  Reat Native | React | Javascript | NodeJS |  PostgreSQL 
 
 Tools: VSCode, NetBeans
 
