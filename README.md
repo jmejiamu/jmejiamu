@@ -8,7 +8,10 @@ I am a dedicated and experienced Software Engineer specializing in mobile develo
 * Reat Native CLI/EXPO
 * React
 * Javascript / Typescript
-* NodeJS /  PostgreSQL 
+* NodeJS /  PostgreSQL
+
+## Contact me
+* Email: jmejiamu@gmail.com
 
 
 
